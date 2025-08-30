@@ -2048,6 +2048,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6178977921268652943, guid: dc3c7eec30151c640803cf79e22f33ca, type: 3}
+      propertyPath: m_text
+      value: '<b>Welcome to Map Navigator Demo!</b>
+
+        Made by Ohad Klein'
+      objectReference: {fileID: 0}
     - target: {fileID: 7683535525590697035, guid: dc3c7eec30151c640803cf79e22f33ca, type: 3}
       propertyPath: showOnStart
       value: 0
